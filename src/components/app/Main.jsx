@@ -1,19 +1,19 @@
-import React from "react";
-import { FlexBox } from "../common/Box";
-import styled from "styled-components";
-import { Header } from "./header/Header";
-import { Routing } from "./routing/Routing";
+import React from 'react'
+import styled from 'styled-components'
+import { FlexBox } from '../common/Box'
+import { Header } from './header/Header'
+import { Routing } from './routing/Routing'
 
 const FullPage = styled(FlexBox)`
   flex-direction: column;
 
   min-height: 100vh;
-`;
+`
 
 const Content = styled(FlexBox)`
   flex: 1;
   flex-direction: column;
-`;
+`
 
 function Main() {
   return (
@@ -23,7 +23,7 @@ function Main() {
         <Routing />
       </Content>
     </FullPage>
-  );
+  )
 }
 
-export default Main;
+export default Main

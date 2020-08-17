@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81f07aa5-715a-4947-81b4-c95e4977751b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/eslintPlugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/Main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/routing/Routing.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/routing/Routing.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/Box.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/Box.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/typography/Typography.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/typography/Typography.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/wrappers/PageWrapper.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/wrappers/PageWrapper.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/dashboard/Page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/dashboard/Page.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/graphql/Page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/graphql/Page.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1gDur2oH5ypW4a8pEFx5AEDN3ta" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="com.eslint.settings.ESLintSettingsPage" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81f07aa5-715a-4947-81b4-c95e4977751b" name="Default Changelist" comment="" />
+      <created>1597661679138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597661679138</updated>
+      <workItem from="1597661680159" duration="2450000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="757" y="428" key="#ESLint" timestamp="1597662801418">
+      <screen x="0" y="23" width="1792" height="1011" />
+    </state>
+    <state x="757" y="428" key="#ESLint/0.23.1792.1011@0.23.1792.1011" timestamp="1597662801418" />
+    <state x="397" y="167" key="SettingsEditor" timestamp="1597664190068">
+      <screen x="0" y="23" width="1792" height="1011" />
+    </state>
+    <state x="397" y="167" key="SettingsEditor/0.23.1792.1011@0.23.1792.1011" timestamp="1597664190068" />
+  </component>
+</project>

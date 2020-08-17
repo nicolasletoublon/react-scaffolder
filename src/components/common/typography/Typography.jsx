@@ -1,4 +1,4 @@
-import styled, { css } from "styled-components";
+import styled, { css } from 'styled-components'
 import {
   layout,
   space,
@@ -6,8 +6,8 @@ import {
   typography,
   border,
   position,
-  background
-} from "styled-system";
+  background,
+} from 'styled-system'
 
 const typographyStyles = css`
   margin: 0;
@@ -20,14 +20,14 @@ const typographyStyles = css`
   ${position};
   ${border};
   ${layout};
-`;
+`
 
-const Headline1 = styled("h1")`
+const Headline1 = styled('h1')`
   ${typographyStyles};
-`;
+`
 
-const Headline2 = styled("h2")`
+const Headline2 = styled('h2')`
   ${typographyStyles};
-`;
+`
 
-export { Headline1, Headline2 };
+export { Headline1, Headline2 }

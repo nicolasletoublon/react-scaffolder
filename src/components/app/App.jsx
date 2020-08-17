@@ -1,8 +1,8 @@
-import React from "react";
-import Main from "./Main";
-import { ThemeProvider } from "styled-components";
-import { theme, GlobalStyle } from "../../theme";
-import { BrowserRouter } from "react-router-dom";
+import React from 'react'
+import { ThemeProvider } from 'styled-components'
+import { BrowserRouter } from 'react-router-dom'
+import { theme, GlobalStyle } from '../../theme'
+import Main from './Main'
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
         </>
       </BrowserRouter>
     </ThemeProvider>
-  );
+  )
 }
 
-export default App;
+export default App

@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components'
 import {
   layout,
   space,
@@ -7,10 +7,10 @@ import {
   flexbox,
   border,
   position,
-  background
-} from "styled-system";
+  background,
+} from 'styled-system'
 
-const Box = styled("div")`
+const Box = styled('div')`
   box-sizing: border-box;
 
   ${layout};
@@ -21,14 +21,14 @@ const Box = styled("div")`
   ${border};
   ${position};
   ${background};
-`;
+`
 
 const FlexBox = styled(Box)`
   display: flex;
-`;
+`
 
 const Spacer = styled(Box)`
   ${space};
-`;
+`
 
-export { Box, FlexBox, Spacer };
+export { Box, FlexBox, Spacer }

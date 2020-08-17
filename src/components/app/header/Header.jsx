@@ -1,7 +1,7 @@
-import { FlexBox } from "../../common/Box";
-import styled from "styled-components";
-import { Link } from "react-router-dom";
-import React from "react";
+import styled from 'styled-components'
+import { Link } from 'react-router-dom'
+import React from 'react'
+import { FlexBox } from '../../common/Box'
 
 const HeaderWrapper = styled(FlexBox)`
   position: sticky;
@@ -11,7 +11,7 @@ const HeaderWrapper = styled(FlexBox)`
   width: 100%;
   height: 60px;
   box-shadow: 0 0 4px 0 black;
-`;
+`
 
 const Header = () => {
   return (
@@ -21,7 +21,7 @@ const Header = () => {
         <Link to="/graphql/">GraphQL</Link>
       </HeaderWrapper>
     </nav>
-  );
-};
+  )
+}
 
-export { Header };
+export { Header }
